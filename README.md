@@ -1,6 +1,6 @@
-# Hey, Welcome to WorqHat's GitHub Profile! 👋
+# Hey, Welcome to WorqHat's GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WorqHat&label=Views&color=blue&style=plastic" alt="shi-wal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WorqHat&label=Views&color=blue&style=plastic" alt="worqhat" /> </p>
 
 <a href="https://twitter.com/worqhat">
   <img align="left" alt="WorqHat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,14 +26,6 @@
 [![LinkedIn: WorqHat](https://img.shields.io/badge/-WorqHat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/worqhat/)](https://www.linkedin.com/company/worqhat/)
 [![GitHub: Sagnik](https://img.shields.io/github/followers/pallavisingh2500?label=follow&style=social)](https://github.com/sagnik11)
 [![GitHub: WorqHat](https://img.shields.io/github/followers/pallavisingh2500?label=follow&style=social)](https://github.com/WorqHat)
-
-<a href="https://github.com/WorqHat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorqHat&theme=dark" />
-</a>
-<a href="https://github.com/WorqHat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=WorqHat&show_icons=true&theme=dark&line_height=27" alt="WorqHat's github stats"/>
-</a>
-
 
 <div align="center">
 
