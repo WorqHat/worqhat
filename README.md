@@ -83,5 +83,5 @@ Head to 👉 [**worqhat.com**](https://worqhat.com) and launch your first AI-pow
 
 ---
 
-**© WorqHat Technologies. All rights reserved.**  
+**© WorqHat. All rights reserved.**  
 *This README provides an overview. For detailed usage, visit the official documentation.*
