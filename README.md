@@ -79,7 +79,7 @@ Contribute templates, build extensions, or share ideas — together we’re buil
 ---
 
 ## 💡 Start Building  
-Head to 👉 [**app.worqhat.com**](https://app.worqhat.com) and launch your first AI-powered workspace today!
+Head to 👉 [**worqhat.com**](https://worqhat.com) and launch your first AI-powered workspace today!
 
 ---
 
